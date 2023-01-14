@@ -1,7 +1,6 @@
 # 100 JAVASCRIPT PROJECTS
 
 [Challenges All World Wide Web]
-<<<<<<< HEAD
 
 # CHALLENGES COMPLETED
 
