@@ -32,7 +32,9 @@ main {
   .buttons {
     margin-top: 1.5rem;
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     gap: 10px;
 
     button {
@@ -45,5 +47,12 @@ main {
       color: rgb(250, 241, 241);
       border-radius: 6px;
     }
+  }
+}
+
+@media (min-width: 768px) {
+  .buttons {
+    display: flex;
+    flex-direction: row !important;
   }
 }
