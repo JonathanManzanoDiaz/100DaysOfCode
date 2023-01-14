@@ -4,4 +4,4 @@
 
 # CHALLENGES COMPLETED
 
-- [VAINILLA JAVASCRIPT STOPWATCH](https://jonathanmanzanodiaz.github.io/frontendmentor/ALL-PROJECTS/001-StopWatch)
+- [VAINILLA JAVASCRIPT STOPWATCH](https://jonathanmanzanodiaz.github.io/100JSProjects/ALL-PROJECTS/001-StopWatch/)
