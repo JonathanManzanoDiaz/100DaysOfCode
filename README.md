@@ -4,10 +4,10 @@
 
 # CHALLENGES COMPLETED
 
-- [VAINILLA JAVASCRIPT STOPWATCH](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/001-StopWatch/)
+- [001-VAINILLA JAVASCRIPT STOPWATCH](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/001-StopWatch/)
 
-- [CLOCK JAVASCRIPT](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/002-Clock/)
+- [002-CLOCK JAVASCRIPT](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/002-Clock/)
 
-- [CALCULATOR](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/003-Calculator/)
+- [003-CALCULATOR](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/003-Calculator/)
 
-- [CALCULATOR](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/004-DrumKit/)
+- [004-DRUMKIT](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/004-DrumKit/)
