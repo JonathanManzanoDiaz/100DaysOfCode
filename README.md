@@ -14,3 +14,4 @@
 
 - [005-COLOR FLIPPER](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/005-ColorFlipper/)
 
+- [006-GENERATOR RANDOM NUMBER](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/006-RandomNumber/)
