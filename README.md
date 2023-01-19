@@ -17,3 +17,6 @@
 - [006-GENERATOR RANDOM NUMBER](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/006-RandomNumber/)
 
 - [007-COUNTER](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/007-Counter/)
+
+- [008-REVIEWS](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/008-Reviews/)
+
