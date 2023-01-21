@@ -1,0 +1,39 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  position: relative;
+}
+nav #close {
+  position: absolute;
+  top: 8px;
+  right: 17px;
+  z-index: 1;
+  color: white;
+}
+nav ul {
+  list-style-type: none;
+  background-color: blue;
+  width: 40vh;
+  top: 0px;
+  right: 0px;
+  position: absolute;
+  padding: 2rem 1rem;
+  height: 100vh;
+  color: white;
+}
+nav ul li {
+  margin-top: 0.5rem;
+}
+
+.show {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
