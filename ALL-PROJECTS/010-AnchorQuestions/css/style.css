@@ -1,0 +1,41 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+body .type {
+  box-shadow: 0 0 4px black;
+  width: 400px;
+  margin: 2rem auto;
+  border-radius: 5px;
+}
+body h1 {
+  margin-top: 2rem;
+  padding: 2.5rem 0;
+}
+body h2 {
+  position: relative;
+  border-bottom: 1px solid black;
+  padding: 1rem;
+}
+body h2 button {
+  position: absolute;
+  right: 10px;
+  border: 3px solid gold;
+  padding: 0.025em 0.2em;
+  font-size: 20px;
+  cursor: pointer;
+}
+body p {
+  padding: 0.5rem 2rem;
+}
+
+.show {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
