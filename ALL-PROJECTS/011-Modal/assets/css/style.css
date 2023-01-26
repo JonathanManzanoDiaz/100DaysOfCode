@@ -1,0 +1,69 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  place-content: center;
+  height: 90vh;
+}
+
+.modal {
+  background-color: white;
+  box-shadow: 0 0 4px black;
+  border-radius: 10px;
+  width: 300px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.modal .openBtn {
+  text-align: center;
+  margin: 1rem 0;
+  padding: 0;
+  width: 120px;
+  background-color: transparent;
+  border-radius: 10px;
+  border: 1px solid blue;
+  box-shadow: 0 0 4px blue;
+  height: 30px;
+}
+
+.contentModal {
+  background-color: white;
+  box-shadow: 0 0 1000px black;
+  border-radius: 10px;
+  width: 350px;
+  height: 150px;
+  display: none;
+  position: relative;
+  margin-top: -11rem;
+  margin-left: -1.5rem;
+  text-align: center;
+}
+.contentModal .closeModal {
+  text-align: center;
+  margin: 1rem 0;
+  padding: 0;
+  width: 30px;
+  background-color: transparent;
+  border-radius: 10px;
+  border: 0;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  height: 30px;
+  top: 0;
+  right: 25px;
+}
+.contentModal .closeModal:hover {
+  font-weight: 700;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */

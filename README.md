@@ -24,4 +24,4 @@
 
 - [010-ANCHOR QUESTIONS](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/010-AnchorQuestions/)
 
-- [011-RESTAURANT MENU](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/011-RestaurantMenu/)
+- [011-MODAL](https://jonathanmanzanodiaz.github.io/100WebProjects/ALL-PROJECTS/011-Modal/)
